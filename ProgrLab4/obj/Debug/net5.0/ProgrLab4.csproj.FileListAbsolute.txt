@@ -1,0 +1,16 @@
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.csproj.AssemblyReference.cache
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.AssemblyInfoInputs.cache
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.AssemblyInfo.cs
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.csproj.CoreCompileInputs.cache
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.exe
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.deps.json
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.runtimeconfig.json
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.runtimeconfig.dev.json
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.dll
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\bin\Debug\net5.0\ProgrLab4.pdb
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.dll
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\refint\ProgrLab4.dll
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.pdb
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ProgrLab4.genruntimeconfig.cache
+C:\Users\pawsw\source\repos\ProgLab4\ProgrLab4\obj\Debug\net5.0\ref\ProgrLab4.dll
